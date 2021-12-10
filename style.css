@@ -1,1 +1,6 @@
-
+#logo {color:white;
+background-color: blue;
+display: inline;
+font-size: 32px;
+font-weight: bold;
+padding: 8px;}
