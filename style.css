@@ -1,7 +1,7 @@
 <style>
 #logo {color:white;
 background-color: blue;
-display: inline;
+display: inline-block;
 font-size: 32px;
 font-weight: bold;
 padding: 8px;
